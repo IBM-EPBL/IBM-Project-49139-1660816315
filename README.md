@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/101719961/202836489-9c8416d6-3036-40bb-bd37-35619488c4e1.png)
 ![image](https://user-images.githubusercontent.com/101719961/202836511-2af0f308-0426-45dd-9ea6-00237ec96c46.png)
 ![image](https://user-images.githubusercontent.com/101719961/202836520-30bce398-359d-4fd7-a8ca-6e6534de8fa4.png)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Smart Waste Management System For Metropolitan Cities               DOMAIN: INTERNET OF THINGS(IOT)
 
 # TEAM MEMBERS:
@@ -14,9 +14,11 @@ SIVA PRIYANKA R
 
 FRANIKA H
 
-AKSHAYA NS
+AKSHAYA N S
 
 # COLLEGE NAME : STELLA MARY'S COLLEGE OF ENGINEERING
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TEAM MENTOR: Mrs. A P EVANJALIN
 
