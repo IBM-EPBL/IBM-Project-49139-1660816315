@@ -7,7 +7,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Smart Waste Management System For Metropolitan Cities               DOMAIN: INTERNET OF THINGS(IOT)
 # TEAM ID : PNT2022TMID52320            BATCH NO : B3-3M5E
-# TEAM MEMBERS:
+
+TEAM MEMBERS:
+
 SNEKA K
 
 SIVA PRIYANKA R
