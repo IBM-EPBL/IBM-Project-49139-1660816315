@@ -6,23 +6,24 @@
 ![image](https://user-images.githubusercontent.com/101719961/202836520-30bce398-359d-4fd7-a8ca-6e6534de8fa4.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Smart Waste Management System For Metropolitan Cities               DOMAIN: INTERNET OF THINGS(IOT)
-# TEAM ID : PNT2022TMID52320            BATCH NO : B3-3M5E
+# TEAM ID : PNT2022TMID52320                          
+# BATCH NO : B3-3M5E
 
-TEAM MEMBERS:
+# TEAM MEMBERS:
 
-SNEKA K
+    SNEKA K
 
-SIVA PRIYANKA R
+    SIVA PRIYANKA R
 
-FRANIKA H
+    FRANIKA H
 
-AKSHAYA N S
+    AKSHAYA N S
 
 # COLLEGE NAME : STELLA MARY'S COLLEGE OF ENGINEERING
 
-TEAM MENTOR: Mrs. A P EVANJALIN
+   TEAM MENTOR: Mrs. A P EVANJALIN
 
-COLLEGE SPOC : Mr. MICHAEL FRANKLIN N
+   COLLEGE SPOC : Mr. MICHAEL FRANKLIN N
 
 
 # Layout Model
